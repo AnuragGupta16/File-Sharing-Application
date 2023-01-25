@@ -5,7 +5,7 @@ We will build rest api for a simple file sharing app.
 
 DEPLOYED LINK:  https://inshare0.netlify.app/
 
-![demo gif](https://github.com/ShivamJoker/GIF-Demos/raw/master/inshare%20demo.gif)
+
 
 
 
